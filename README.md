@@ -1,4 +1,28 @@
-## Hi, I’m Anishia 👋
+<!-- Animated "Hi, I'm Anishia 👋" -->
+<p align="center">
+  <svg viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="50%" text-anchor="middle" font-size="30" font-family="Arial, sans-serif" fill="black">
+      <tspan id="text1">Hi, I’m Anishia 👋</tspan>
+    </text>
+    <style>
+      text {
+        stroke: black;
+        stroke-width: 1px;
+        fill: none;
+        stroke-dasharray: 400;
+        stroke-dashoffset: 400;
+        animation: draw 4s linear forwards;
+      }
+      @keyframes draw {
+        to {
+          stroke-dashoffset: 0;
+          fill: black;
+        }
+      }
+    </style>
+  </svg>
+</p>
+
 
 **Secret‑Cleared Senior Security Architect (Banking, Federal Govt) · Zero Trust · IAM · Cloud Security**
 
