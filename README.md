@@ -27,12 +27,12 @@ Security Architecture
 
 ## Frameworks/Compliance Standards Used:
 DND/CF Architecture Framework (DNDAF)
-TOGAF® Standard
-SABSA
-PCI-DSS
-GDPR
-Data Sovereignty and Public Cloud-Canada
-AI Algorithmic Impact Assessment-Canada
+|TOGAF® Standard
+|SABSA
+|PCI-DSS
+|GDPR
+|Data Sovereignty and Public Cloud-Canada
+|AI Algorithmic Impact Assessment-Canada
 
 ## 📜 Certifications
 Security+ · AZ-303 Microsoft Azure Architect Technologies · Fortinet SIEM Network Associate · CISSP(In Progress)
