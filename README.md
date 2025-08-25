@@ -17,12 +17,13 @@ Security Architecture
 - **Financial API Security**
 
 ## 🛠️ Skills & Tools
-**Identity & Access:** Azure AD/Entra ID, IAM, PIM, RBAC, 802.1x  
-**Cloud & SaaS:** Azure, Microsoft 365, ServiceNow, Salesforce, Workday  
-**Defenses:** Zero Trust, DLP/AIP, CA policies, Defender, E5 controls  
+**Identity & Access:** Azure AD/Entra ID, IAM, PIM,PAM RBAC, 802.1x  
+**Cloud & SaaS:** Azure, Microsoft 365, ServiceNow, Salesforce, SAP  
+**Defenses:** Zero Trust, DLP/AIP, Defender, MS E5 controls  
 **Data & Telemetry:** Splunk, Sentinel, KQL, Log Analytics  
-**Security Lifecycle:** SA&A, ConOps, TRA, IRM, OWASP ASVS  
-**Automation:** PowerShell, Bash, Python
+**Security Lifecycle:** SA&A, ConOps, TRA, IRM, OWASP, 
+**Automation:** PowerShell, Python, C++
+**Regression/Statistics:** SPSS
 
 ## Frameworks/Compliance Standards Used:
 DND/CF Architecture Framework (DNDAF)
