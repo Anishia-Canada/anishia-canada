@@ -1,16 +1,49 @@
-## Hi there 👋
+## Hi, I’m Anishia 👋
 
-<!--
-**Anishia-Canada/anishia-canada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Secret‑Cleared Senior Security Architect (Banking, Federal Govt) · Zero Trust · IAM · Cloud Security**
 
-Here are some ideas to get you started:
+I design practical, security architectures for identity, financial; APIs, and enterprise platforms. I like turning risk into clear blueprints, controls, and playbooks you can ship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## 🔐 Featured Security Projects:
+ 
+Security Architecture
+- **Vulnerability Management Program** — Asset inventory, risk ranking, weekly reports. → Repo Name
+- **Azure Zero Trust E5 Blueprint** — Baseline policies for AIP/DLP/PIM/CA + simple scripts. → Repo Name
+- **Security Impact Assessment**
+- **SAP ERP Digital Supply Chain Security Architecture**
+  
+ Identity and Access Mangement 
+- **Open Banking & Centralized Auth Architecture** — Threat model, controls matrix, ConOps/TRA/SA&A templates. → repo
+- **Financial API Security**
+
+## 🛠️ Skills & Tools
+**Identity & Access:** Azure AD/Entra ID, IAM, PIM, RBAC, 802.1x  
+**Cloud & SaaS:** Azure, Microsoft 365, ServiceNow, Salesforce, Workday  
+**Defenses:** Zero Trust, DLP/AIP, CA policies, Defender, E5 controls  
+**Data & Telemetry:** Splunk, Sentinel, KQL, Log Analytics  
+**Security Lifecycle:** SA&A, ConOps, TRA, IRM, OWASP ASVS  
+**Automation:** PowerShell, Bash, Python
+
+## Frameworks/Compliance Standards Used:
+DND/CF Architecture Framework (DNDAF)
+TOGAF® Standard
+SABSA
+PCI-DSS
+GDPR
+Data Sovereignty and Public Cloud-Canada
+AI Algorithmic Impact Assessment-Canada
+
+## 📜 Certifications
+Security+ · AZ-303 Microsoft Azure Architect Technologies · Fortinet SIEM Network Associate · CISSP(In Progress)
+
+---
+
+## 🎯 Focus Areas
+- Secure system‑to‑system connectivity for open networks  
+- Identity and centralized authentication in banking/API ecosystems  
+
+
+---
+
+## 🤝 Connect
+https://www.linkedin.com/in/anishia-gopi/
