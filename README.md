@@ -2,7 +2,7 @@
   Heya, I'm Anishia 👋
 </h1>
 
-**Secret‑Cleared Senior Security Architect (Banking, Federal Govt) · Zero Trust · IAM · Cloud Security**
+**Senior Security Architect (Banking, Federal Govt) · Zero Trust · IAM · Cloud Security**
 
 I design practical, security architectures for identity, financial; APIs, and enterprise platforms. I like turning risk into clear blueprints, controls, and playbooks you can ship.
 
