@@ -136,24 +136,6 @@ I design practical, battle-tested security architectures for identity, financial
 
 ---
 
-## 🎯 Focus Areas
-
-<div align="center">
-
-```
- ┌──────────────────────────────────────────────────────────────┐
- │                                                              │
- │   🔗  Secure system-to-system connectivity for open          │
- │       networks and distributed architectures                 │
- │                                                              │
- │   🏦  Identity & centralized authentication in              │
- │       banking and API ecosystems                             │
- │                                                              │
- └──────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
 ---
 
 ## 📊 GitHub Activity
