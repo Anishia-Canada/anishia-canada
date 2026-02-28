@@ -62,6 +62,14 @@ I design practical, battle-tested security architectures for identity, financial
 | 🏦 **Open Banking & Centralized Auth Architecture** | Threat model, controls matrix, ConOps/TRA/SA&A templates |
 | 🔌 **Financial API Security** | Secure API gateway architecture for financial ecosystems |
 
+## 🤖 AI × Security — Agentic Demo
+
+> *Where Zero Trust meets Agentic AI*
+
+[![ZTA Agentic Demo](https://github-readme-stats.vercel.app/api/pin/?username=Anishia-Canada&repo=zta-agentic-demo&theme=transparent&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&icon_color=7ee8fa)](https://github.com/Anishia-Canada/zta-agentic-demo)
+
+**What it does:** Demonstrates how agentic AI can enforce and validate Zero Trust policies autonomously — continuous authentication, identity verification, and policy decisions without human-in-the-loop for routine checks.
+
 ---
 
 ## 🛠️ Tech Stack & Tools
