@@ -145,23 +145,7 @@ I design practical, security architectures for identity, financial APIs, and ent
 
 ---
 
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anishia-Canada&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=7ee8fa&text_color=c9d1d9&bg_color=0d1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anishia-Canada&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Anishia-Canada&theme=dark&hide_border=true&ring=00d4ff&fire=ff6b6b&currStreakLabel=7ee8fa&sideLabels=c9d1d9&dates=888888&background=0d1117)](https://git.io/streak-stats)
-
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Anishia-Canada&theme=dark&hide_border=true&ring=00d4ff&fire=ff6b6b&currStreakLabel=7ee8fa&background=0d1117)](https://git.io/streak-stats)
 
 ---
 
