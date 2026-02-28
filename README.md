@@ -59,7 +59,7 @@ I design practical, security architectures for identity, financial APIs, and ent
 ### 🔑 Identity & Access Management
 | Project | Description |
 |---------|-------------|
-| 🏦 **Open Banking**| Threat model, controls matrix, ConOps/TRA/SA&A templates |
+| 🏦 **Open Banking**| https://github.com/Anishia-Canada/open-banking-data-sharing/blob/main/OPEN-BANKING-README.md |
 | 🏦 **Centralized Auth Architecture** |  https://github.com/Anishia-Canada/centralized-auth-banking/blob/main/CENTRALIZED-AUTH-README.md
 | 🔌 **Financial API Security** | Secure API gateway architecture for financial ecosystems |
 
