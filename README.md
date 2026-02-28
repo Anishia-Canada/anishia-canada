@@ -139,15 +139,12 @@ I design practical, security architectures for identity, financial APIs, and ent
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
 ![AZ-303](https://img.shields.io/badge/Microsoft-AZ--303_Azure_Architect-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Fortinet](https://img.shields.io/badge/Fortinet-SIEM_Network_Associate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
-![CISSP](https://img.shields.io/badge/ISC²-CISSP_(In_Progress)-00A651?style=for-the-badge&logoColor=white)
+![CISSP](https://img.shields.io/badge/ISC²-CISSP-00A651?style=for-the-badge&logoColor=white)
 
 </div>
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Anishia-Canada&theme=dark&hide_border=true&ring=00d4ff&fire=ff6b6b&currStreakLabel=7ee8fa&background=0d1117)](https://git.io/streak-stats)
-
----
 
 ## 🤝 Let's Connect
 
