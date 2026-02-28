@@ -42,7 +42,7 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-I design practical, battle-tested security architectures for identity, financial APIs, and enterprise platforms — turning complex risk into clear blueprints, controls, and playbooks you can actually ship.
+I design practical, security architectures for identity, financial APIs, and enterprise platforms — turning complex risk into clear blueprints, controls, and playbooks you can actually ship.
 
 ---
 
